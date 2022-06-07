@@ -20,6 +20,7 @@ class Step3_3__5 {
         } else{
             System.out.println("Чётных чисел нет");
         }
+        System.out.println("Я оказался в ГитХабе");
     }
 }
 
